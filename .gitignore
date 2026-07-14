@@ -1,2 +1,18 @@
+# Секреты - никогда не коммитим
+.env
+.env.local
+
+# Мусор системы
 .DS_Store
+Thumbs.db
+
+# Локальные настройки Claude Code
 .claude/
+
+# Кэши и временное
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+*.log
