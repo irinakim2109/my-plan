@@ -68,6 +68,7 @@
 | Продажа, воронка, лид-магнит, CTA | `knowledge/my-product.md` |
 | «Что у меня заходило», выбор темы по факту | `knowledge/what-worked.md` |
 | Чтобы не повторять старые ошибки | `knowledge/lessons-learned.md` |
+| Нужен кейс с цифрами, вариант позиционирования, УТП или архетип бренда | `knowledge/brand-unpacking-full.md` |
 
 # Мои скиллы (прокачка)
 
